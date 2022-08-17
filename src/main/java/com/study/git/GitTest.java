@@ -11,10 +11,8 @@ public class GitTest {
         System.out.println("Hello Git");
         String a = "a";
         System.out.println(a);
-
         System.out.println("adfasdf");
         System.out.println("hot-fix");
-
         System.out.println("2");
         System.out.println("master");
 
