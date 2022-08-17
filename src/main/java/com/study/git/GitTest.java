@@ -9,7 +9,10 @@ public class GitTest {
     public static void main(String[] args) {
 
         System.out.println("Hello Git");
-        String a;
+        String a = "a";
+        System.out.println(a);
+
+        System.out.println("adfasdf");
 
     }
 }
