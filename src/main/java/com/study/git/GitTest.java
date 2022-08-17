@@ -15,5 +15,8 @@ public class GitTest {
         System.out.println("adfasdf");
         System.out.println("hot-fix");
 
+        System.out.println("2");
+        System.out.println("master");
+
     }
 }
